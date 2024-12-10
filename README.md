@@ -1,2 +1,1 @@
-# repolinter-test-2
-repo has some files 
+This project is just a test repo that has a bunch of stuff
